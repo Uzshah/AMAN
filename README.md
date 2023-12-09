@@ -1,4 +1,4 @@
-![logo](assests/logo.png)
+![logo](./assests/logo.png)
 # AMAN
 Qatar trusted AI Chatbot
 
