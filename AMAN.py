@@ -20,7 +20,7 @@ def produce_response(question, history):
       question: user input, normally it is a question asked
       history: chat history
     """
-    model=os.getenv("MODEL_NAME")
+    model="gpt-mode-04"
 
     # converting history into OpenAI message format
     messages = []
