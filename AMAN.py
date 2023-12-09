@@ -53,9 +53,9 @@ def produce_response(question, history):
 
 demo = gr.ChatInterface(
   produce_response,
-  title="OpenAI Chatbot Example",
-  description="A chatbot example for QCRI Generative AI Hackathon 2023",
+  title="AMAN",
+  description="Qatar Trusted AI CHATBOT",
   )
 
 if __name__ == "__main__":
-    demo.launch(share=True)
+    demo.launch()
