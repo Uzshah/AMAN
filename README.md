@@ -1,4 +1,4 @@
-![logo](./assests/logo.png)
+![logo](https://github.com/Uzshah/AMAN/tree/main/assets/logo.png)
 # AMAN
 Qatar trusted AI Chatbot
 
